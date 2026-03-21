@@ -1,0 +1,7 @@
+aid: lam-research
+url: https://raw.githubusercontent.com/api-evangelist/lam-research/refs/heads/main/apis.yml
+modified: '2026-03-21'
+apis: []
+common:
+  - type: Website
+    url: https://www.lam-research.com
