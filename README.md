@@ -1,5 +1,5 @@
 # Lam Research (lam-research)
-Lam Research is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Lam Research.
+Lam Research is a global supplier of innovative wafer fabrication equipment and services to the semiconductor industry, providing systems used in the production of integrated circuits.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/lam-research/refs/heads/main/apis.yml)
 
@@ -11,12 +11,12 @@ Lam Research is a Fortune 500 company. This repository captures the APIs, develo
 
 ## Tags:
 
- - Fortune 500
+ - Fortune 500, Semiconductor, Wafer Fabrication
 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
@@ -24,10 +24,10 @@ No public APIs have been documented yet. Contributions welcome.
 
 ## Common Properties
 
-- [Website](https://www.lam-research.com)
+- [Website](https://www.lamresearch.com)
 
 ## Maintainers
 
-**FN:** API Evangelist
+**FN:** Kin Lane
 
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com
