@@ -4,7 +4,7 @@ description: >-
   Lam Research is a global supplier of innovative wafer fabrication equipment and
   services to the semiconductor industry, providing systems used in the production
   of integrated circuits.
-type: Contract
+kind: contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Fortune 500
