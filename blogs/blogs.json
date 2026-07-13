@@ -1,0 +1,14 @@
+{
+  "repo": "lam-research",
+  "feeds": [
+    {
+      "source": "https://newsroom.lamresearch.com/blog",
+      "feed_url": "https://newsroom.lamresearch.com/press-releases?pagetemplate=rss",
+      "title": "",
+      "saved": 1,
+      "method": "discovered"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 11
+}
