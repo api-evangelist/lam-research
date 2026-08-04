@@ -2,13 +2,20 @@
   "repo": "lam-research",
   "feeds": [
     {
+      "source": "https://newsroom.lamresearch.com/press-releases?pagetemplate=rss",
+      "feed_url": "https://newsroom.lamresearch.com/press-releases?pagetemplate=rss",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://newsroom.lamresearch.com/blog",
       "feed_url": "https://newsroom.lamresearch.com/press-releases?pagetemplate=rss",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "discovered"
     }
   ],
-  "fetched": "2026-07-11T11:50:51Z",
-  "post_count": 11
+  "fetched": "2026-08-01T15:49:00Z",
+  "post_count": 15
 }
