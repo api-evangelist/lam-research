@@ -19,6 +19,10 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/lam-research.png
 tags:
   - Fortune 500
+  - Semiconductors
+  - Wafer Fabrication
+tags_raw:
+  - Fortune 500
   - Semiconductor
   - Wafer Fabrication
 url: >-
