@@ -5,7 +5,7 @@
       "source": "https://newsroom.lamresearch.com/press-releases?pagetemplate=rss",
       "feed_url": "https://newsroom.lamresearch.com/press-releases?pagetemplate=rss",
       "title": "",
-      "saved": 2,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -16,6 +16,6 @@
       "method": "discovered"
     }
   ],
-  "fetched": "2026-08-15T12:11:08Z",
+  "fetched": "2026-08-22T20:20:02Z",
   "post_count": 17
 }
