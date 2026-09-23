@@ -1,7 +1,9 @@
 ---
 title: Press Releases
 url: https://newsroom.lamresearch.com/press-releases?o=90
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Lam Research" press release artificial intelligence'
 position: 1
 source: serpapi-google

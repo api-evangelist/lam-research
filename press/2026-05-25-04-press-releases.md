@@ -1,7 +1,9 @@
 ---
 title: Press Releases
 url: https://investor.lamresearch.com/2023-04-10-Lam-Research-AI-Study-Identifies-Game-Changing-Development-Approach-for-Speeding-Up,-Slashing-Cost-of-Chip-Innovation
-date: '2026-05-25'
+published: '2023-04-10'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Lam Research" press release artificial intelligence'
 position: 4
 source: serpapi-google
